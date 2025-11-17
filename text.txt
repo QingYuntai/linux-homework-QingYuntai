@@ -1,3 +1,0 @@
-Hello world! This is a test. Hello again, world. Testing, testing, one two three.
-The quick brown fox jumps over the lazy dog. Hello world, hello everyone!
-Programming is fun! Linux commands are powerful. Hello bash scripting.
