@@ -1,0 +1,6 @@
+QingYuntai 90 Math
+Alice 92 Physics
+Sidorov 78 Math
+Kozlov 88 Physics
+Smirnov 95 Math
+Orlov 76 Physics
